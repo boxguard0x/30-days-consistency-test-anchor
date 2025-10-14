@@ -1,3 +1,6 @@
 [submodule "basic-counter"]
 	path = basic-counter
 	url = https://github.com/boxguard0x/basic-anchor-counter
+[submodule "on-chain-logger"]
+	path = on-chain-logger
+	url = https://github.com/boxguard0x/on-chain-logger
