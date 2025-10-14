@@ -1,0 +1,11 @@
+# Anchor build artifacts
+/target/
+
+# Node modules
+/node_modules/
+
+# Anchor project local ledger
+/test-ledger/
+
+# Anchor temporary files
+/.anchor/

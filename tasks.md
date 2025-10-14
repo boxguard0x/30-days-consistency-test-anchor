@@ -1,0 +1,30 @@
+- Day 1: Simple Counter
+- Day 2: On-Chain Logger (New: Event emissions). Program to log messages to accounts, emit events for off-chain indexing.
+- Day 3: User Profile Store (New: Struct serialization). Store user data (name, bio) in PDA, with update/delete.
+- Day 4: Basic Auction (New: Timed logic via Clock sysvar). Bid on an item, end auction after time, highest bidder wins.
+- Day 5: Token Minter (New: SPL integration basics). Mint custom tokens to a wallet, with supply cap.
+- Day 6: Voting Booth (New: Maps for tallies). Single-question vote, track votes per option, prevent revotes.
+- Day 7: Escrow Lite (New: State enums). Deposit SOL, release on condition (e.g., both parties approve).
+- Day 8: Raffle System (New: Randomness via recent blockhash). Enter raffle, draw winner securely.
+- Day 9: Message Board (New: Vectors of structs). Post messages, reply to threads, basic moderation.
+- Day 10: Staking Pool (New: Math for rewards). Stake tokens, calculate time-based rewards, unstake.
+- Day 11: Counter Client (New: IDL generation, basic TS provider). Script to increment/read your Day 1 counter.
+- Day 12: Profile Manager App (New: Transaction batching). Client to create/update profiles from Day 3.
+- Day 13: Auction Bidder (New: Event listening). TS app to bid and monitor auction end from Day 4.
+- Day 14: Token Wallet (New: SPL token client). Mint and transfer tokens from Day 5 via script.
+- Day 15: Poll Voter (New: Multi-signer simulation). Client for voting and results from Day 6.
+- Day 16: Escrow Negotiator (New: Timeout handling in client). Deposit/release escrow from Day 7.
+- Day 17: Raffle Entrant (New: Random seed in TS). Enter and check winner for Day 8 raffle.
+- Day 18: Forum Poster (New: Pagination in client). Post/reply to Day 9 board, fetch threads.
+- Day 19: Staker Dashboard (New: Reward calculation off-chain). Stake/unstake from Day 10, display earnings.
+- Day 20: Multi-Program Caller (New: CPI from client). Build a new program that calls Day 5 minter, with TS invoker.
+- Day 21: Counter dApp (New: React setup, wallet connect). UI for Day 1 counter with buttons/displays.
+- Day 22: Profile Editor (New: Forms and state management). React app to edit/view Day 3 profiles.
+- Day 23: Auction House (New: Real-time polling). UI for bidding/watching Day 4 auctions.
+- Day 24: Token Exchange (New: Swap interface). Frontend for minting/trading Day 5 tokens.
+- Day 25: Voting Platform (New: Charts for results). React dApp for Day 6 polls with visualizations.
+- Day 26: Escrow Marketplace (New: Multi-user flows). UI for creating/managing Day 7 escrows.
+- Day 27: Raffle Game (New: Animations). Interactive frontend for entering Day 8 raffles.
+- Day 28: Decentralized Forum (New: Websockets for updates). Real-time UI for Day 9 message board.
+- Day 29: Staking Portal (New: Oracle integration mock). Dashboard for Day 10 staking with price feeds.
+- Day 30: DEX Prototype (New: Order book UI). Full dApp combining token swaps (from Day 20) with matching logic and live order views.

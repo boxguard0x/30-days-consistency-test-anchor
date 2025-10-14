@@ -1,0 +1,3 @@
+[submodule "basic-counter"]
+	path = basic-counter
+	url = https://github.com/boxguard0x/basic-anchor-counter
