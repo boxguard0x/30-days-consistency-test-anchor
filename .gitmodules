@@ -4,3 +4,6 @@
 [submodule "on-chain-logger"]
 	path = on-chain-logger
 	url = https://github.com/boxguard0x/on-chain-logger
+[submodule "user-profile-store"]
+	path = user-profile-store
+	url = https://github.com/boxguard0x/user-profile-store
